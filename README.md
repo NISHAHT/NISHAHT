@@ -26,6 +26,7 @@
     <a href="https://www.youtube.com/channel/UCzAGQrMCsPo-NOqfFUW0Kjg">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
+    <a href="https://discord.gg/E6mv6DpcyS"><img src="https://discord.com/api/guilds/901798625116553226/widget.json"></a>
     
 </p>
 <hr/>
